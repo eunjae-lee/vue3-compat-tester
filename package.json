@@ -10,7 +10,7 @@
     "algoliasearch": "^4.9.0",
     "instantsearch.css": "^7.4.5",
     "vue": "^3.0.5",
-    "vue-instantsearch": "https://pkg.csb.dev/algolia/vue-instantsearch/commit/67f2de25/vue-instantsearch"
+    "vue-instantsearch": "https://pkg.csb.dev/algolia/vue-instantsearch/commit/6a654aed/vue-instantsearch"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.1",

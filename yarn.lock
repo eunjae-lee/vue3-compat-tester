@@ -661,9 +661,9 @@ vite@^2.1.5:
   optionalDependencies:
     fsevents "~2.3.1"
 
-"vue-instantsearch@https://pkg.csb.dev/algolia/vue-instantsearch/commit/67f2de25/vue-instantsearch":
+"vue-instantsearch@https://pkg.csb.dev/algolia/vue-instantsearch/commit/6a654aed/vue-instantsearch":
   version "3.6.0"
-  resolved "https://pkg.csb.dev/algolia/vue-instantsearch/commit/67f2de25/vue-instantsearch#1d36cbad9765cba48e7e208a740b76e4a7180f10"
+  resolved "https://pkg.csb.dev/algolia/vue-instantsearch/commit/6a654aed/vue-instantsearch#207f984f5c0fc3896cd546b6659986bebf1130d3"
   dependencies:
     algoliasearch-helper "^3.1.0"
     instantsearch.js "^4.20.0"
