@@ -9,6 +9,13 @@
         </div>
       </template>
     </ais-hits>
+    <!-- <ais-hits>
+      <template slot="item" slot-scope="{ item }">  ← this syntax doesn't work any more
+        <article>
+          <h1>{item.name}</h1>
+        </article>
+      </template>
+    </ais-hits> -->
     <ais-pagination />
   </ais-instant-search>
 </template>
